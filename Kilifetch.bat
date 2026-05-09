@@ -25,6 +25,6 @@ echo GPU: %GPU%
 echo ----------
 echo Thank you for choosing
 echo Killifetch, the Neofetch
-echo that runs on potato's
+echo that runs on potatoes
 echo (~850 bytes)
 pause
